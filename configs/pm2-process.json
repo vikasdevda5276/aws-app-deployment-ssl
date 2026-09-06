@@ -1,0 +1,10 @@
+{
+  "apps" : [{
+    "name"        : "my-web-app",
+    "script"      : "./app/app.js",
+    "env": {
+      "NODE_ENV": "production",
+      "PORT": 3000
+    }
+  }]
+}
